@@ -1,4 +1,4 @@
-# A5
+# Sentence Bert A5
 **How to Use the Web Application**
 
 1) In the provided input boxes, enter the two text sentences or paragraphs that you want to compare for similarity.
